@@ -1,5 +1,11 @@
 ### Hi there 👋
-My name is Lisa Vartia
+My name is Lisa Vartia. I'm a student, studying frontend development and web design.
+
+
+[![Lisa's Streak](https://github-readme-streak-stats.herokuapp.com?user=DiamondAngel02&theme=dark-smoky&fire=FFAB4C)](https://git.io/streak-stats)
+
+<img src="https://komarev.com/ghpvc/?username=DiamondAngel024&label=Profile%20views&color=0e75b6&style=flat" alt="lucasjolibois54" />
+
 
 <!--
 **DiamondAngel02/DiamondAngel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
