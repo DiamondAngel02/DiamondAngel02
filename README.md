@@ -6,7 +6,7 @@ My name is Lisa Vartia. I'm a student, studying frontend development and web des
 
 <p><img align="center" width="496px" src="https://github-readme-stats.vercel.app/api/top-langs?username=DiamondAngel02&show_icons=true&locale=en&layout=compact&theme=radical" alt="DiamondAngel02" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiamondAngel02)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=DiamondAngel024&label=Profile%20views&color=0e75b6&style=flat" alt="DiamondAngel02" />
 
